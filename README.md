@@ -1,4 +1,4 @@
-# chrom_2025
+# chrom_2026
 От организации хроматина к пониманию функционирования геномов эукариот
 
-[http://intbio.org/chrom_2025/](http://intbio.org/chrom_2025/)
+[http://intbio.org/chrom_2026/](http://intbio.org/chrom_2026/)
