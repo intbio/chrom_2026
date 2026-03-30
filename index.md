@@ -12,17 +12,17 @@
 #### День 2. 
 Исторический экскурс (академик С.А. Недоспасов). <br>
 [Лекция 2. Структура и динамика хроматина от ДНК до супрануклеосомной структуры.](https://www.dropbox.com/scl/fi/r6v3vt724u2uc82zb5a07/2Lecture2_DNA-to-supranucleosome_26.pptx?rlkey=tedas22y3zsbe3szaou1dn97f&dl=0)  <br>
-[Семинар](https://docs.google.com/presentation/d/1YtDd9L-ThngXzN2tEyoWJR1O4UyUiJYGugD_T1iWy2I/edit?usp=sharing)
+[Семинар](https://docs.google.com/presentation/d/1XELiLCEH6L7YkQKL_Ow4jxLXXCedubaMFKwCuor2nWU/edit?usp=sharing)
 
 
 #### День 3. 
 [Лекция 3. 3Д-структура хроматина и эпигенетика.](https://www.dropbox.com/scl/fi/dltl1793smct6dbmrs2j3/3Lecture3_3D_and_Epigenetics.pptx?rlkey=rak1nm7qkvc7wp4v5ef4any80&dl=0) <br>
-[Семинар](https://docs.google.com/presentation/d/1Wy4-7LGZE0I1TV8ksv9Z-JsHNPdeyfRxZr0MOr4T3Aw/edit?usp=sharing)
+[Семинар]
 
 
 #### День 4.  
 [Лекция 4. Экспериментальные методы изучения хроматина. Актуальный вопросы эпигеномики](https://www.dropbox.com/scl/fi/vq87dz7yb1rx5z9do17h6/4Lecture4_Experimental_epigenomics_Adv_topics.pptx?rlkey=e5c3kon8gzagi4qkjmg414ieh&dl=0) <br>
-[Семинар](https://docs.google.com/presentation/d/1hJC2tW9wMpfMmDW35KypTjexuIstiNu3sh6fFDunUSU/edit?usp=sharing) 
+[Семинар] 
 
 <!---
 #### День 5. Экспериментальная эпигеномика
@@ -36,7 +36,7 @@
 [Семинар](https://docs.google.com/presentation/d/1SCITQJSqeVdcCS0Totkze8UdMQ1pq3KHKN_ZnTD50rg/edit#slide=id.g2ec420c2121ced76_0)
 
 #### Ответы на вопросы
-[Презентация](https://docs.google.com/presentation/d/1rd8G7zMwbtEjmFQkrbTMRhA84temwnewUtFYxCB7kYo/edit?usp=sharing)  
+[Презентация]
 
 
 #### Зачет
