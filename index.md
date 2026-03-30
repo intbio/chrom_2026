@@ -12,7 +12,7 @@
 #### День 2. 
 Исторический экскурс (академик С.А. Недоспасов). <br>
 [Лекция 2. Структура и динамика хроматина от ДНК до супрануклеосомной структуры.](https://www.dropbox.com/scl/fi/r6v3vt724u2uc82zb5a07/2Lecture2_DNA-to-supranucleosome_26.pptx?rlkey=tedas22y3zsbe3szaou1dn97f&dl=0)  <br>
-[Семинар](https://docs.google.com/presentation/d/1XELiLCEH6L7YkQKL_Ow4jxLXXCedubaMFKwCuor2nWU/edit?usp=sharing)
+[Семинар 1. Исследование стуктуры ДНК](https://docs.google.com/presentation/d/1XELiLCEH6L7YkQKL_Ow4jxLXXCedubaMFKwCuor2nWU/edit?usp=sharing)
 
 
 #### День 3. 
@@ -32,12 +32,12 @@
 #### День 5. 
 
 [Лекция 5. История. Актуальные вопросы и практические приложения.](https://www.dropbox.com/scl/fi/ibwx1vttq1yi00kmravyh/5Lecture5_History_Advanced_topics.pptx?rlkey=637ey6y6kxyzvwzcr26cy6avl&dl=0)  
-[Семинар](https://docs.google.com/presentation/d/1SCITQJSqeVdcCS0Totkze8UdMQ1pq3KHKN_ZnTD50rg/edit#slide=id.g2ec420c2121ced76_0)
+[Семинар]
 
 #### Ответы на вопросы
-[Презентация]
+[Презентация](https://docs.google.com/presentation/d/1IxmDLaexXlaaq5frtlcR_xZKcWB4Ces52Z08x-l7FFI/edit?usp=sharing)
 
 
 #### Зачет
-- [Темы для рефератов](https://docs.google.com/document/d/1tQ636SLJ14eb_rEv1sxl1SzV49FcmI9bi-5dIiLoIfk/edit?usp=sharing)
+- [Темы для рефератов](https://docs.google.com/document/d/1ShW1I5bqTZPxfJuQYTwROvdQK6bh4CDNDyErgxKliTs/edit?tab=t.0)
 - [Папка со статьями](https://drive.google.com/drive/folders/1tPwEpwCvWKmxmsda1KGcQYidiQaa7tpK?usp=sharing)
