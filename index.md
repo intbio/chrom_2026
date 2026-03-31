@@ -17,7 +17,7 @@
 
 #### День 3. 
 [Семинар 1. Исследование стуктуры ДНК](https://docs.google.com/presentation/d/1XELiLCEH6L7YkQKL_Ow4jxLXXCedubaMFKwCuor2nWU/edit?usp=sharing) <br>
-[Лекция 3. 3Д-структура хроматина и эпигенетика.](https://www.dropbox.com/scl/fi/dltl1793smct6dbmrs2j3/3Lecture3_3D_and_Epigenetics.pptx?rlkey=rak1nm7qkvc7wp4v5ef4any80&dl=0) <br>
+[Лекция 3. Механизмы эпигенетики.](https://www.dropbox.com/scl/fi/qtwepgeo9t52sah9jiv4i/3Lecture3_Epigenetics_26.pptx?rlkey=8puox3jejt5o9eopk5ha0suxf&dl=0) <br>
 
 
 
