@@ -12,12 +12,13 @@
 #### День 2. 
 Исторический экскурс (академик С.А. Недоспасов). <br>
 [Лекция 2. Структура и динамика хроматина от ДНК до супрануклеосомной структуры.](https://www.dropbox.com/scl/fi/r6v3vt724u2uc82zb5a07/2Lecture2_DNA-to-supranucleosome_26.pptx?rlkey=tedas22y3zsbe3szaou1dn97f&dl=0)  <br>
-[Семинар 1. Исследование стуктуры ДНК](https://docs.google.com/presentation/d/1XELiLCEH6L7YkQKL_Ow4jxLXXCedubaMFKwCuor2nWU/edit?usp=sharing)
+
 
 
 #### День 3. 
+[Семинар 1. Исследование стуктуры ДНК](https://docs.google.com/presentation/d/1XELiLCEH6L7YkQKL_Ow4jxLXXCedubaMFKwCuor2nWU/edit?usp=sharing) <br>
 [Лекция 3. 3Д-структура хроматина и эпигенетика.](https://www.dropbox.com/scl/fi/dltl1793smct6dbmrs2j3/3Lecture3_3D_and_Epigenetics.pptx?rlkey=rak1nm7qkvc7wp4v5ef4any80&dl=0) <br>
-[Семинар]
+
 
 
 #### День 4.  
