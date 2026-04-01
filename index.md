@@ -22,7 +22,7 @@
 
 
 #### День 4.  
-[Семинар 2. Работа в геномном браузере с геномными и эпигеномными аннотациями.](https://docs.google.com/presentation/d/1_rBdE9ack5X-j3JSwkNH9LDoI91yeLCQL097g8RFRvI/edit?slide=id.g3d39c9c1f85_0_41#slide=id.g3d39c9c1f85_0_41) <br>
+[Семинар 2. Работа в геномном браузере с геномными и эпигеномными аннотациями.](https://docs.google.com/presentation/d/1_rBdE9ack5X-j3JSwkNH9LDoI91yeLCQL097g8RFRvI/edit?usp=sharing) <br>
 [Лекция 4. 3Д структура хроматина.](https://www.dropbox.com/scl/fi/fz2tu6uq9t51cm29bmx81/4Lecture3_3D_26.pptx?rlkey=yn5blo3idhv697fbg8uaihkiw&dl=0) <br>
 
 
