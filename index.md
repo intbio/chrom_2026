@@ -22,7 +22,7 @@
 
 
 #### День 4.  
-[Лекция 4. Экспериментальные методы изучения хроматина. Актуальный вопросы эпигеномики](https://www.dropbox.com/scl/fi/vq87dz7yb1rx5z9do17h6/4Lecture4_Experimental_epigenomics_Adv_topics.pptx?rlkey=e5c3kon8gzagi4qkjmg414ieh&dl=0) <br>
+[Лекция 4. 3Д структура хроматина.](https://www.dropbox.com/scl/fi/fz2tu6uq9t51cm29bmx81/4Lecture3_3D_26.pptx?rlkey=yn5blo3idhv697fbg8uaihkiw&dl=0) <br>
 [Семинар] 
 
 <!---
