@@ -32,7 +32,7 @@
 
 #### День 5. 
 
-[Лекция 5. История. Актуальные вопросы и практические приложения.](https://www.dropbox.com/scl/fi/ibwx1vttq1yi00kmravyh/5Lecture5_History_Advanced_topics.pptx?rlkey=637ey6y6kxyzvwzcr26cy6avl&dl=0)  
+[Лекция 5. Углубленные вопросы эпигеномики](https://www.dropbox.com/scl/fi/q3hd4kruwgqiq1ggdfnf7/5Lecture5_Advanced-topics_26.pptx?rlkey=ygoeqvc1iik893pwsfg966nnh&dl=0)  
 [Семинар]
 
 #### Ответы на вопросы
