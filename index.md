@@ -34,7 +34,7 @@
 #### День 5. 
 
 [Лекция 5. Углубленные вопросы эпигеномики](https://www.dropbox.com/scl/fi/q3hd4kruwgqiq1ggdfnf7/5Lecture5_Advanced-topics_26.pptx?rlkey=ygoeqvc1iik893pwsfg966nnh&dl=0)  
-[Семинар]
+[Семинар 3.](https://docs.google.com/presentation/d/1i7ZDLh2lryaajgxWzd19yAKB3UWZ-l1Z-qRwvzfNQEc/edit?usp=sharing)
 
 #### Ответы на вопросы
 [Презентация](https://docs.google.com/presentation/d/1IxmDLaexXlaaq5frtlcR_xZKcWB4Ces52Z08x-l7FFI/edit?usp=sharing)
